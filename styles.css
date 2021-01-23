@@ -1,10 +1,24 @@
 body {
     background-color: #fff;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #333;
+}
+
+header {
+    padding-top: 30px;
 }
 
 #main {
     background-color: #eee;
     border-radius: 5px;
     margin-top: 30px;
+}
+
+#img-div {
+    background-color: #fff;
+}
+
+#img-caption {
+    padding: 10px;
 }
