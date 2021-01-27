@@ -6,5 +6,5 @@ freeCodeCamp project
 * CSS
 
 ## Demo
-https://mariodgc.github.io/TributePage/
+[Tribute Page](https://mariodgc.github.io/TributePage/)
 
